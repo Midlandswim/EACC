@@ -2,7 +2,7 @@
 Engineers Against Climate Change Club @ BCA
 
 Researcher: Wilson Dhalwani and EACC <br />
-Advisor: Mr. Joesph Barbetta (BCA) & Mr. Micheal Liva (BCA) <br />
+Advisor: Mr. Joesph Barbetta (BCA) & Mr. Michael Liva (BCA) <br />
 Context: The Bergen County Academies' Engineers Against Climate Change Club <br />
 Projekt Name: Automatic Enviroment for Flora (AEF2) <br />
 Start Date: January 1, 2022 <br />
