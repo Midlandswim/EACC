@@ -1,5 +1,5 @@
 # EACC Projekt
-Engineers Against Climate Change Club @ BCA
+Engineers Against Climate Change Club at the Bergen County Academies
 
 Researcher: Wilson Dhalwani and EACC <br />
 Advisor: Mr. Joesph Barbetta (BCA) & Mr. Michael Liva (BCA) <br />
